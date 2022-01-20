@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#A1A1A1</color>
+    <color name="red">#d50000</color>
+    <color name="green">#4caf50</color>
+
+    <color name="grey_900">#212121</color>
+    <color name="grey_800">#424242</color>
+    <color name="grey_700">#616161</color>
+
+    <color name="brown_500">#795548</color>
+    <color name="brown_600">#6D4C41</color>
+    <color name="brown_700">#5D4037</color>
+    <color name="orange_width">#f6d365</color>
+    <color name="image_btn">#fccb90</color>
+    <color name="orange_end">#fda085</color>
+
+    <color name="whigre">#cfd9df</color>
+
+    <color name="s_1">#63a343</color>
+    <color name="s_2">#24b4d5</color>
+    <color name="s_3">#61313e</color>
+    <color name="s_4">#22b1b6</color>
+    <color name="s_5">#ea5645</color>
+    <color name="s_6">#d13431</color>
+    <color name="s_7">#ffc23a</color>
+    <color name="s_8">#179998</color>
+    <color name="s_9">#f9a431</color>
+    <color name="s_10">#4f823c</color>
+    <color name="s_11">#16a2b9</color>
+    <color name="s_12">#206787</color>
+    <color name="s_13">#3ac2db</color>
+    <color name="s_14">#ea5645</color>
+
+</resources>
